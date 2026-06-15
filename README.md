@@ -1,6 +1,8 @@
 # Data Analysis and Visualization with Python
 This repository contains exercises and projects completed as part of my Python Data Analysis and Visualization training offered through the BioDev Network training program.
 
+***
+
 ## Skills Demonstrated
 
 ### Data Manipulation
@@ -26,25 +28,28 @@ This repository contains exercises and projects completed as part of my Python D
 - Jupyter Notebook
 - Miniconda environments
   
+***
 
 ## Example Outputs
 
-### Distribution Analysis
-![Barplot](figures/sex_distribution_barplot.png)
+### Barplot
 
+![Barplot](figures/sex_distribution_barplot.png)
 The barplot showed site-level counts (plot_id) grouped by sex, comparing male and female distributions across sampling sites.
 
+### Boxplot
 
 ![Boxplot](figures/species_boxplot.png)
-
 The boxplot showed the distribution of body weight across hindfoot length groups, with overlaid individual points to display number of measurements and their distributions.
+
+### Violinplot
 
 ![Violinplot](figures/violinplot.png)
 
 
-### Relationship Between Variables
-![Scatterplot](figures/species_scatterplot.png)
+### Scatterplot
 
+![Scatterplot](figures/species_scatterplot.png)
 This scatterplot was used to investigate the relatioship between the weight vs. hindfoot length, colored by species to show inter-species variation.
 
 ![Scatterplot](figures/scatterplot_facet.png)
