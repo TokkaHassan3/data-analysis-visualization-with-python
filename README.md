@@ -36,16 +36,18 @@ This repository contains exercises and projects completed as part of my Python D
 
 ![Barplot](figures/sex_distribution_barplot.png)
 The barplot showed site-level counts (plot_id) grouped by sex, comparing male and female distributions across sampling sites.
+***
 
 ### Boxplot
 
 ![Boxplot](figures/species_boxplot.png)
 The boxplot showed the distribution of body weight across hindfoot length groups, with overlaid individual points to display number of measurements and their distributions.
+***
 
 ### Violinplot
 
 ![Violinplot](figures/violinplot.png)
-
+***
 
 ### Scatterplot
 
